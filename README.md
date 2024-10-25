@@ -2,7 +2,7 @@
 
 #### Descrição
 
-##### Estou graduando no Bacharel em Sistemas de Informação pelo Instituto Federal de Alagoas, desenvolvedora Back-End, formada como técnica em Eletroeletrônica pelo Instituto Federal de Alagoas.
+##### Estou graduando Bacharel em Sistemas de Informação pelo Instituto Federal de Alagoas, desenvolvedora Back-End, formada como técnica em Eletroeletrônica pelo Instituto Federal de Alagoas.
 
 #### 🚀Tenho conhecimento em:
 
