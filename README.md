@@ -28,8 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeletorres&layout=compact&theme=dracula"/>
     
 </div>
-
-##
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 #### 📲Outras redes:
 <div align="center">
