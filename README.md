@@ -13,7 +13,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-472179?style=for-the-badge&logo=appium&logoColor=white)
 
-#### 🌱Atualmente estudando:
+#### 🌱Atualmente me especializando em:
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 [![JAVA](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
