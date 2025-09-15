@@ -15,8 +15,8 @@
 
 #### 🌱Atualmente me especializando em:
 
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
-[![JAVA](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-009639?style=for-the-badge&logo=rest-assured&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-472179?style=for-the-badge&logo=appium&logoColor=white)
