@@ -1,5 +1,5 @@
 ## Olá, chamo-me Isabele Torres 👋👨🏽‍💻
-##### Tenho 20 anos, sou técnica em Eletroeletrônica pelo Instituto Federal de Alagoas, atualmente estou cursando o 4° período da graduação em Sistemas de Informação ainda na mesa instituição do ensino técnico. Gosto bastante de desenvolver aplicações back-end usando as linguagens C# e Java e os frameworks SpringBoot e .Net. Atualmente estou aprofundando meus estudos mais na área da Garantia da qualidade do software, como QA engineer Júnior na DBC Company.
+##### Tenho 20 anos, sou técnica em Eletroeletrônica pelo Instituto Federal de Alagoas, atualmente estou cursando o 5° período da graduação em Sistemas de Informação ainda na mesa instituição do ensino técnico. Gosto bastante de desenvolver aplicações back-end usando as linguagens C# e Java e os frameworks SpringBoot e .Net. Atualmente estou aprofundando meus estudos mais na área da Garantia da qualidade do software, como QA engineer Júnior na DBC Company.
 
 #### 🚀Tenho conhecimento em:
 
